@@ -1,1 +1,1 @@
-console.log("creo q va saliendo")
+console.log("completando el pg")
